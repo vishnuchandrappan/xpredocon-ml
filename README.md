@@ -1,2 +1,13 @@
-# Disease-prediction-using-Machine-Learning
-This Machine Learning project is used to predict the disease based on the symptoms given by the user.It predicts using three different machine learning algorithms.So,the output is accurate.It uses tkinter for GUI.
+# Disease prediction using symptoms
+
+Steps
+* clone the repository
+* python clean_code.py
+
+
+The project is designed in such a way that, it uses 3 algorithms to predict a disease.
+* Decision Tree
+* Random Forest and
+* Naive Bayes
+
+Data Set : http://people.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html 
